@@ -20,5 +20,5 @@ const regexp = /\uD83C[\uDF00-\uDFFF]|\uD83D[\uDC00-\uDE4F]/g
 ```
 
 
-
+## I want to limit all of emoticons,but  there are some emoticons I can't limit 
 
